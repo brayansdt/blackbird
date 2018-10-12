@@ -1,0 +1,6 @@
+setup:
+  config: {}
+build:
+  languages: []
+run:
+  web: /blackbird/start_blackbird.sh
